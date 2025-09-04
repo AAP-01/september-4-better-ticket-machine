@@ -17,5 +17,5 @@ lab 2
 
 Part 3
 47. the balance remains the same (50 cents) since the ticket machine didn't print a ticket since one costs 100 cents
-48. with "if(amount > 0) {", the program prints "Use a positive amount rather than: 0" if i insert 0 cents, but by changing the > to >=, the message won't print
+48. with "if(amount > 0) {", the program prints "Use a positive amount rather than: 0" if i insert 0 cents, but by changing the > to >=, the message won't print if i inpur 0 as is equal to 0
 49. 
